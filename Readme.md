@@ -3,4 +3,4 @@
 ###### Purpose:
     Rock Paper Scissor Game
 
-#### Dear Students, Check out the live app [here]().
+#### Hello, Check out the live app [here](https://ramya-brs.github.io/Rock-Paper-Scissors/).
